@@ -17,8 +17,9 @@ https://archive.ics.uci.edu/ml/datasets/Wholesale+customers
 7) CHANNEL: customersâ€™ Channel - Horeca (Hotel/Restaurant/CafÃ©) or Retail channel (Nominal) 
 8) REGION: customers Region Lisnon, Oporto or Other (Nominal) 
 
-## Files 
 
+## Files 
+visuals.py: This is text file written in python language contains some functions for ploting purpose in this projects.
 
 ## Benchmark Model
 
