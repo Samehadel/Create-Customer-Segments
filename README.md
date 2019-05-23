@@ -22,6 +22,8 @@ https://archive.ics.uci.edu/ml/datasets/Wholesale+customers
 visuals.py: This is text file written in python language contains some functions for ploting purpose in this projects.
 
 ## Benchmark Model
-
+1. KMeans
+2. GaussianMixture (GMM)
 
 ## Evaluation Metrics
+1. slihoutte score
